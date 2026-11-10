@@ -1,0 +1,9 @@
+images/
+annotations/
+yolo_data/
+runs/
+lightning_logs/
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+data.yaml
